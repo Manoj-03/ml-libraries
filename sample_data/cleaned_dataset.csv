@@ -1,0 +1,48 @@
+Timestamp,EnrollmentID,Gender,Date of birth,"Age (in years only, ex: 21,22,25)",Educational Background,"Year of Passout (ex: 2025, 2021)",Industry,Height (in cms only),Where do you come from? (State/Province),Hobby,Nature,Native Language,Learning ability,Graduation Percentage,Experience (in years),Daily Travel Distance (km)
+2025-11-30 18:44:35-05:30,451,Male,2001-08-12,24,Bachelors,2023,IT,"5'8""",Telangana,Sports,Extrovert,urdu ,Both,68.0,0.4,7.0
+2025-11-30 18:47:51-05:30,81010905625,Female,2004-07-14,21,Bachelors,2025,IT,5.6 cm,Telangana,Music,Introvert,Telugu,Both,75.0,0.0,2.0
+2025-11-30 18:52:20-05:30,81010824725,Male,2003-12-16,22,Bachelors,2025,IT,182,Andhra Pradesh,Sports,Ambivert,Telugu,Both,53.4,0.0,2.0
+2025-11-30 18:54:05-05:30,81020616425,Female,1994-02-02,31,Bachelors,2016,Non-IT,151,Andhra Pradesh,Music,Ambivert,Telugu,Both,59.28,3.0,3.0
+2025-11-30 18:55:47-05:30,81010907125,Male,2004-07-10,21,Bachelors,2025,Not Specified,167,Telangana,Art,Introvert,Telugu,Visual learner,64.79,0.0,1.0
+2025-11-30 18:56:39-05:30,81020810125,Male,2004-08-01,21,Bachelors,2025,IT,170,Andhra Pradesh,Music,Ambivert,Telugu,Both,74.0,0.0,2.0
+2025-11-30 18:57:02-05:30,81020733225,Male,2003-06-21,22,Bachelors,2025,IT,176,Andhra Pradesh,Music,Introvert,Telugu,Both,75.0,0.0,2.0
+2025-11-30 18:57:43-05:30,8101090085,Female,2004-09-29,21,Bachelors,2025,IT,156,Telangana,Music,Introvert,Telugu,Both,70.0,0.0,8.0
+2025-11-30 19:01:58-05:30,81010803825,Male,2002-10-05,23,Bachelors,2025,IT,177,Telangana,Sports,Introvert,Telugu,Both,83.0,0.0,10.0
+2025-11-30 19:12:00-05:30,81010811725,Female,2004-07-03,21,Bachelors,2025,IT,5.5,Telangana,Reading,Ambivert,Telugu,Both,80.0,0.0,26.6
+2025-11-30 19:26:35-05:30,81010901125,Male,2000-05-08,25,Bachelors,2025,IT,173,Telangana,Music,Introvert,Telugu,Both,63.8,0.0,80.0
+2025-11-30 19:42:39-05:30,81010902225,Female,2003-09-26,22,Masters,2025,IT,151,Andhra Pradesh,Music,Ambivert,Telugu,Both,75.24,0.0,0.5
+2025-11-30 19:44:03-05:30,81010312425,Female,2004-09-29,21,Bachelors,2025,IT,13.4,Telangana,"Exploring new things on social Media,music and self nurturing",Ambivert,Telugu,Both,77.0,0.0,25.0
+2025-11-30 20:02:11-05:30,81010828425,Male,2001-11-27,24,Bachelors,2023,IT,170cms,Andhra Pradesh,Sports,Introvert,Telugu,Both,67.0,0.0,8.5
+2025-11-30 20:06:18-05:30,81010906625,Male,2002-10-18,23,Bachelors,2024,IT,167,Andhra Pradesh,Sports,Extrovert,Telugu,Both,78.19,1.0,20.0
+2025-11-30 20:06:51-05:30,81010826825,Male,1998-04-08,27,Masters,2023,Non-IT,169,West Bengal,Sports,Extrovert,Hindi,Both,81.7,3.0,0.2
+2025-11-30 20:09:00-05:30,81010913525,Male,1997-10-24,28,Bachelors,2022,Non-IT,158,Chhattisgarh,Travelling,Extrovert,Telugu,Both,66.0,3.0,17.0
+2025-11-30 20:33:05-05:30,81010905325,Male,2002-12-13,22,Bachelors,2025,IT,170,Telangana,Sports,Ambivert,Telugu,Both,77.7,0.0,30.0
+2025-11-30 21:17:38-05:30,81010901125,Male,2000-05-08,25,Bachelors,2025,IT,173,Telangana,Music,Introvert,Telugu,Both,63.8,0.0,80.0
+2025-11-30 21:18:27-05:30,81010902125,Female,2002-06-02,23,Masters,2025,IT,5'3,Bihar,Music,Introvert,Hindi,Visual learner,88.0,0.0,2.0
+2025-11-30 21:28:29-05:30,81010902025,Male,2003-01-15,22,Bachelors,2025,IT,172,Bihar,Sketching,Ambivert,Hindi,Both,80.0,0.0,2.0
+2025-11-30 21:36:22-05:30,81010828125,Male,1999-05-14,26,Masters,2023,Not Specified,168,Andhra Pradesh,Music,Introvert,Telugu,Both,67.0,0.0,7.0
+2025-11-30 21:58:52-05:30,81020512025,Male,2003-10-26,22,Bachelors,2025,Non-IT,170,Telangana,Sports,Ambivert,Telugu,Both,80.0,0.0,13.0
+2025-11-30 23:39:34-05:30,81010904825,Male,2004-01-24,22,Bachelors,2025,IT,180,Telangana,Sports,Ambivert,Telugu,Both,80.0,0.0,2.0
+2025-11-30 23:52:09-05:30,81020821125,Female,1999-08-22,26,Bachelors,2020,Non-IT,152 ,Telangana,Art,Ambivert,Telugu,Both,68.0,0.0,5.0
+2025-12-01 05:29:52-05:30,81020920525,Male,2003-06-11,22,Bachelors,2025,IT,184,Telangana,Sports,Introvert,Telugu,Both,68.4,0.0,10.0
+2025-12-01 05:53:43-05:30,81010820325,Female,1998-01-03,27,Bachelors,2026,IT,172,Telangana,Cooking,Ambivert,Telugu,Both,85.5,0.0,10.5
+2025-12-01 06:16:04-05:30,81010913925,Female,1997-02-12,28,Masters,2022,Not Specified,5.2,Telangana,Music,Introvert,Telugu,Both,79.0,0.0,6.0
+2025-12-01 08:53:47-05:30,81010812125,Male,2004-03-26,21,Bachelors,2025,IT,164,Telangana,Reading,Introvert,Telugu,Both,74.5,0.0,30.0
+2025-12-01 09:12:33-05:30,81020914025,Female,2003-02-05,22,Bachelors,"2025,2021",IT,161,Telangana,"Browsing,Music",Ambivert,Telugu,Both,81.0,0.0,1.0
+2025-12-01 09:23:19-05:30,81010901025,Female,2003-01-20,22,Masters,2025,IT,164,Andhra Pradesh,Art,Ambivert,Telugu,Both,76.0,0.0,1.0
+2025-12-01 09:40:45-05:30,81010909525,Male,2004-04-23,21,Undergraduate,2026,Not Specified,5.8,Andhra Pradesh,Music,Introvert,Telugu,Both,73.625,0.0,5.0
+2025-12-01 10:16:16-05:30,81010902325,Male,2003-09-18,22,Bachelors,2025,Non-IT,167,Andhra Pradesh,Sports,Introvert,Telugu,Visual learner,80.7,0.0,1.0
+2025-12-01 11:10:07-05:30,81010827925,Male,2003-05-09,22,Bachelors,2025,IT,182,Telangana,Sports,Ambivert,Telugu,Visual learner,74.0,0.0,3.5
+2025-12-01 11:10:53-05:30,81010902725,Male,2002-04-22,23,Bachelors,2025,IT,172,Andhra Pradesh,Music,Introvert,Telugu,Both,70.0,0.0,1.2
+2025-12-01 11:18:10-05:30,mmkyadavravur@gmail.com,Male,2003-11-20,22,Bachelors,2025,IT,170,Andhra Pradesh,Music,Ambivert,Telugu,Both,81.0,0.0,0.5
+2025-12-01 11:21:35-05:30,81010915246,Male,2003-03-05,22,Bachelors,2024,IT,"5,10",Telangana,Sports,Ambivert,Telugu,Both,69.0,0.0,5.0
+2025-12-01 11:21:45-05:30,81010908425,Male,2003-09-26,22,Bachelors,2025,IT,173,Andhra Pradesh,Music,Introvert,Telugu,Both,89.65,0.0,10.0
+2025-12-01 11:31:12-05:30,81010904225,Female,2002-03-16,22,Bachelors,2025,IT,5.4,Telangana,Music,Introvert,Telugu,Both,74.0,0.0,1.0
+2025-12-01 11:31:54-05:30,81010826925,Male,2001-09-24,24,Masters,2025,Not Specified,170,Telangana,Sports,Ambivert,Telugu,Both,74.29,0.0,15.0
+2025-12-01 11:37:00-05:30,81010915125,Male,2001-02-15,24,Bachelors,2023,Non-IT,5.5,Telangana,Music,Ambivert,Telugu,Both,71.0,0.0,2.0
+2025-12-01 11:37:59-05:30,81010901225,Male,2002-02-05,23,Bachelors,2025,IT,155,Telangana,Sports,Introvert,Telugu,Both,83.0,0.0,5.0
+2025-12-01 11:38:21-05:30,81010907625,Male,2003-02-16,22,Bachelors,2025,IT,155,Telangana,Sports,Extrovert,Telugu,Both,72.0,0.0,1.0
+2025-12-01 11:39:28-05:30,sai.venky025@gmail.com,Male,1996-07-07,29,Bachelors,2019,Non-IT,5.5,Telangana,Reading,Extrovert,Telugu,Both,70.0,0.0,2.0
+2025-12-01 11:43:26-05:30,81010823125,Male,2001-06-01,24,Undergraduate,2024,Not Specified,168,Telangana,Music,Introvert,Telugu,Both,74.89,0.0,20.0
+2025-12-01 11:43:40-05:30,81010804125,Male,2007-07-15,18,Undergraduate,2025,Not Specified,185,Chhattisgarh,Music,Extrovert,Hindi,Both,75.0,0.0,3.0
+2025-12-01 11:43:55-05:30,25202,Male,2003-11-18,22,Bachelors,2025,IT,170,Andhra Pradesh,Sports,Ambivert,Telugu,Visual learner,66.5,0.0,9.0
